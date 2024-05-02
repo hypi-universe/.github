@@ -1,1 +1,1 @@
-# .github
+# Hypi - simplifying software development
